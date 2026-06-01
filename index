@@ -775,7 +775,7 @@
   <script>
     // ── CONFIGURATION ──────────────────────────────────────────────
     // Replace with your actual Google Apps Script Web App URL
-    const SCRIPT_URL = 'YOUR_GOOGLE_APPS_SCRIPT_URL_HERE';
+    const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbysrgYJfr3d72BU9CIAX_HFuwo_1VAWX4A2H7leI1IyBwC_GA6W836LrNMi_EU2-1U8/exec';
     const EVENT_NAME = 'The Quantum Moment — June 4, 2026';
     // ───────────────────────────────────────────────────────────────
 
